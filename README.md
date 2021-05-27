@@ -5,7 +5,7 @@ Codes for `CoPE: Modeling Continuous Propagation and Evolution on Interaction Gr
 ## Usage
 
 ```
-python run_copy.py --dataset garden
+python run_cope.py --dataset garden
 ```
 
 
