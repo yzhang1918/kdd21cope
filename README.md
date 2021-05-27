@@ -1,6 +1,6 @@
 # CoPE
 
-Codes for CIKM21 submission.
+Codes for `CoPE: Modeling Continuous Propagation and Evolution on Interaction Graph`.
 
 ## Usage
 
