@@ -1,6 +1,6 @@
 # CoPE
 
-Codes for KDD21 submission.
+Codes for CIKM21 submission.
 
 ## Usage
 
